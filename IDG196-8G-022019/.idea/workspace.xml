@@ -4,21 +4,10 @@
     <list default="true" id="b3875c90-b526-4c30-b3dd-c822cffadec9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class0128/ReverseInteger.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class0201/Palindrome.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/class0128/ReverseIntegerTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/class0201/PalindromeTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -39,15 +28,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -60,69 +53,73 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-57" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="306" />
     <option name="width" value="1346" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDG196-8G-Gonzalez" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDG196-8G-Gonzalez" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDG196-8G-Gonzalez" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDG196-8G-Gonzalez" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IDG196-8G-Gonzalez" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549672018502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549677407805" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -151,16 +148,18 @@
       <workItem from="1549641714183" duration="2103000" />
       <workItem from="1549658362522" duration="580000" />
       <workItem from="1549666087135" duration="834000" />
+      <workItem from="1549674596126" duration="2243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3517000" />
+    <option name="totallyTimeSpent" value="5760000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="10" y="306" width="1346" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2682737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -196,15 +195,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/clase082019/Parentesis.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
