@@ -8,13 +8,15 @@ class ParentesisTest {
 
     @Test
 
-    fun `returns false if starts with )`(){
+    fun `returns false if it starts with an invalid character`(){
+        val string = ")@#}]"
+    }
+
+    fun `returns false if it ends with an invalid character`(){
 
     }
 
-    fun `returns false if starts with }`(){
 
-    }
 
 
 }
