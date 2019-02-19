@@ -18,13 +18,11 @@ class ShoppingCartTest {
     fun `remove payment returns true if payment list is empty`(){
         val customerTraits = CustomerTraits(customer)
 
-
-
     }
 
     @Test
     fun `can't remove a payment that doesn't exist`(){
-
+        val customerPayment = 
 
     }
 
