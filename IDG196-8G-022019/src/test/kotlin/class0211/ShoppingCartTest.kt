@@ -5,12 +5,11 @@ import org.junit.Test
 
 class ShoppingCartTest {
     private val shoppingCar = ShoppingCar()
-    
+
     class shopGroceries(val name: String){
         var Nombre = String()//Nombre:
         var Cantidad = String()//Cantidad:
         var Precio = String()//Precio
-
     }
 
     class ShopCart(val name:String){
@@ -21,14 +20,13 @@ class ShoppingCartTest {
     class ShopClient (val name:String){
         var Nombre = String()//Nombre
         var Edad = String()//Edad
-        var Sexo = String()//Sexo
+        var Correo = String()//
         var Pago = String()//Forma de pago
     }
 
     class FormaPago (val name:String){
         var Cash = String()
         var TarjetaCredito = String()
-        var Robo = String()
         var Cupones = String()
     }
 

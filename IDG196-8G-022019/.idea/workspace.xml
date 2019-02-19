@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3875c90-b526-4c30-b3dd-c822cffadec9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -22,13 +22,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/class0215/ShoppingCartTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="306">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding>
-                <element signature="e#19#87#0" expanded="true" />
+                <element signature="e#19#75#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/class0215/CustomerTraits.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -52,10 +61,15 @@
         <option value="$PROJECT_DIR$/src/test/kotlin/TestParentesis.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class0215/ShoppingCart.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class0215/Payment.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class0215/CustomerTraits.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class0215/Customer.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/class0215/ShoppingCartTest.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-67" />
     <option name="y" value="168" />
     <option name="width" value="1346" />
@@ -68,7 +82,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,21 +111,50 @@
               <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="class0215" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDG196-8G-022019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDG196-8G-022019" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="class0215" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550277825066" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550539232747" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Teacher's Repository/IDG196-8G-Arambula/IDG196-8G" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="class0215" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,18 +191,26 @@
       <workItem from="1550110760792" duration="58000" />
       <workItem from="1550184211752" duration="9000" />
       <workItem from="1550212982784" duration="1217000" />
-      <workItem from="1550245202495" duration="6394000" />
+      <workItem from="1550245202495" duration="6700000" />
+      <workItem from="1550282881970" duration="2239000" />
+      <workItem from="1550301527409" duration="7000" />
+      <workItem from="1550352159107" duration="3000" />
+      <workItem from="1550352412579" duration="5000" />
+      <workItem from="1550355760269" duration="13000" />
+      <workItem from="1550433113844" duration="180000" />
+      <workItem from="1550440415431" duration="2890000" />
+      <workItem from="1550468221803" duration="10513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21287000" />
+    <option name="totallyTimeSpent" value="37263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30257186" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3419062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,6 +286,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/clase0211/ShoppingCar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/class082019/ParentesisTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -246,19 +303,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/clase0211/ShoppingCar.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/class0211/ShoppingCartTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class0215/ShoppingCart.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class0215/Payment.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class0215/Customer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class0215/CustomerTraits.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/class0215/ShoppingCartTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding>
-            <element signature="e#19#87#0" expanded="true" />
+            <element signature="e#19#75#0" expanded="true" />
           </folding>
         </state>
       </provider>
