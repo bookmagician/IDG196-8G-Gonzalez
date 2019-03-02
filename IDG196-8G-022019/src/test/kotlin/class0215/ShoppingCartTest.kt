@@ -22,7 +22,6 @@ class ShoppingCartTest {
 
     @Test
     fun `can't remove a payment that doesn't exist`(){
-        val customerPayment = 
 
     }
 
